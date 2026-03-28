@@ -417,10 +417,10 @@ const styles = StyleSheet.create({
     color: Colors.text.primary,
   },
   scrollContent: {
-    paddingBottom: 120,
+    paddingBottom: 100,
   },
   actionContainer: {
     padding: 20,
-    paddingBottom: 20,
+    paddingBottom: 40,
   },
 });
